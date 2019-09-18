@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comscore Sample App</string>
+    <string name="action_settings">Settings</string>
+    <string name="comscore_pub_id">32655483</string>
+    <string name="comscore_pub_secret">b5527ec4247b4e30bf08fcb813381a3c</string>
+
+</resources>
